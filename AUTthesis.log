@@ -1,7 +1,6 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.9)  20 MAR 2023 00:08
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.9)  21 MAR 2023 22:53
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **AUTthesis.tex
 (./AUTthesis.tex
@@ -1079,20 +1078,10 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (./Chant.tex [4]
 LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
 (Font)              scaled to size 24.0pt on input line 5.
-
-Overfull \hbox (17.95883pt too wide) in paragraph at lines 7--8
-[][]\TU/IranNastaliq(0)/m/n/12 نويسنده پايان‌نامه، درصورت تمايل ميتواند برای سپ
-اسگزاری پايان‌نامه خود را به شخص[]
- []
-
-[5]) (./acknowledgement.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
-[][]
- []
-
+ [5]) (./acknowledgement.tex
 LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
 (Font)              scaled to size 16.0pt on input line 25.
-[6]) (./TOC-TOF-LOT.tex
+ [6]) (./TOC-TOF-LOT.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
