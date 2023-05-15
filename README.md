@@ -8,3 +8,6 @@ This repository contains all of my bachelor's thesis documents titled ```Predict
 
 ## Server
 We developed an API and analytical server for applying predictive maintenance to different equipment. Used FastAPI for providing the API server and exploited Python's AI modules and libraries for signal processing and model optimization. All the codes and documents are provided [here](https://github.com/mies47/Predictive-Maintenance-Server).
+
+## Gateway
+Exploited Raspberry PI 4 as the main gateway of the system and implemented the communication between gateway and end-nodes using Zigbee. All the codes and documents for both gateway and end-nodes are listed [here](https://github.com/mies47/Predictive-Maintenance-Gateway).
