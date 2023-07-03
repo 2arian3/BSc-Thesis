@@ -11,3 +11,6 @@ We developed an API and analytical server for applying predictive maintenance to
 
 ## Gateway
 Exploited Raspberry PI 4 as the main gateway of the system and implemented the communication between gateway and end-nodes using Zigbee. All the codes and documents for both gateway and end-nodes are listed [here](https://github.com/mies47/Predictive-Maintenance-Gateway).
+
+## Web
+For easing the process of node management performed by admins, and also visualizing the gathered and processed data, we developed a full front-end web application using Vue.js framework. All the codes and documents are provided [here](https://github.com/mies47/Predictive-Maintenance-Web-App)
