@@ -6,8 +6,8 @@
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}%
-\contentsline {section}{\numberline {1-2}این همه فایل؟!}{2}{section.1.2}%
-\contentsline {section}{\numberline {1-3}از کجا شروع کنم؟}{4}{section.1.3}%
+\contentsline {section}{\numberline {1-2}تعریف مسئله}{2}{section.1.2}%
+\contentsline {section}{\numberline {1-3}از کجا شروع کنم؟}{3}{section.1.3}%
 \contentsline {section}{\numberline {1-4}مطالب پایان‌نامه را چطور بنویسم؟}{5}{section.1.4}%
 \contentsline {subsection}{\numberline {1-4-1}نوشتن فصل‌ها}{5}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1-4-2}مراجع}{6}{subsection.1.4.2}%
