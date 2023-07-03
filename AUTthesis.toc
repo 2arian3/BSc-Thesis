@@ -1,6 +1,6 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست تصاویر}{ج}{section*.4}%
+\contentsline {chapter}{فهرست اشکال}{ج}{section*.4}%
 \contentsline {chapter}{فهرست جداول}{د}{section*.5}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
@@ -13,7 +13,7 @@
 \contentsline {subsection}{\numberline {1-4-2}مراجع}{5}{subsection.1.4.2}%
 \contentsline {subsection}{\numberline {1-4-3}واژه‌نامه فارسی به انگلیسی و برعکس}{5}{subsection.1.4.3}%
 \contentsline {section}{\numberline {1-5}اگر سوالی داشتم، از کی بپرسم؟}{5}{section.1.5}%
-\contentsline {chapter}{کتاب‌نامه}{6}{appendix*.6}%
+\contentsline {chapter}{منابع و مراجع}{6}{appendix*.6}%
 \contentsline {chapter}{پیوست}{7}{appendix*.7}%
 \contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{8}{appendix*.9}%
 \contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{10}{appendix*.10}%
