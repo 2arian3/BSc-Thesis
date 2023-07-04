@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AUTthesis.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+The style file: unsrt-fa.bst
+A level-1 auxiliary file: appendix1.aux
+A level-1 auxiliary file: dicfa2en.aux
+A level-1 auxiliary file: dicen2fa.aux
+A level-1 auxiliary file: en-abstract.aux
+Database file #1: references.bib
+Warning--I didn't find a database entry for "bidabad2007classification"
+Warning--I didn't find a database entry for "aa"
+Warning--I didn't find a database entry for "najafi2008finsler"
+Warning--I didn't find a database entry for "zakeri"
+Warning--I didn't find a database entry for "najafi"
+-- unsrt-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+You've used 4 entries,
+            2198 wiz_defined-function locations,
+            609 strings with 5641 characters,
+and the built_in function-call counts, 849 in all, are:
+= -- 64
+> -- 33
+< -- 0
++ -- 13
+- -- 9
+* -- 62
+:= -- 128
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 31
+empty$ -- 80
+format.name$ -- 9
+if$ -- 188
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 13
+newline$ -- 42
+num.names$ -- 3
+pop$ -- 13
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 43
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 0
+while$ -- 6
+width$ -- 5
+write$ -- 58
+(There were 5 warnings)
