@@ -15,6 +15,16 @@ Zhao, Jingyi, Gao, Chunhai, and Tang, Tao.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{kaggleMLdeployments}
+✔️ {D}eploying your {M}achine {L}earning models 👀 | {K}aggle ---
+  kaggle.com.
+\newblock \url{https://www.kaggle.com/discussions/getting-started/382794}.
+\newblock [Accessed 03-Apr-2023].
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{singh2021deploy}
 Singh, Pramod.
 \newblock Deploy machine learning models to production.
@@ -31,16 +41,6 @@ Pacheco, Fannia, Exposito, Ernesto, Gineste, Mathieu, Baudoin, Cedric, and
   traffic classification: A systematic survey.
 \newblock {\em IEEE Communications Surveys \& Tutorials}, 21(2):1988--2014,
   2018.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{kaggleMLdeployments}
-✔️ {D}eploying your {M}achine {L}earning models 👀 | {K}aggle ---
-  kaggle.com.
-\newblock \url{https://www.kaggle.com/discussions/getting-started/382794}.
-\newblock [Accessed 03-Apr-2023].
 
 \end{LTRbibitems}
 

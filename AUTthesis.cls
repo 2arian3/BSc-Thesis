@@ -292,8 +292,8 @@ Advisors
 %
 \end{titlepage}}
 
-\def\by{نگارش}
-\def\latinby{By}
+\def\by{نگارنده}
+\def\latinby{Author}
 \def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
 \hbox{}
 \thispagestyle{empty}
