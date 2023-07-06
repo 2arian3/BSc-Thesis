@@ -8,40 +8,34 @@
 \contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}%
 \contentsline {section}{\numberline {1-2}تعریف مسئله}{3}{section.1.2}%
 \contentsline {section}{\numberline {1-3}کارهای مشابه}{4}{section.1.3}%
-\contentsline {chapter}{\numberline {2}مؤلفه‌های سیستم و تکنولوژی‌ها}{5}{chapter.2}%
-\contentsline {section}{\numberline {2-1}مؤلفه‌های سیستم طراحی‌شده}{6}{section.2.1}%
-\contentsline {subsection}{\numberline {2-1-1}نحوه‌ی استقرار مدل یادگیری ماشین}{6}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2-1-2}بارگیری مراجع}{8}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2-1-3}روش ارجاع در متن}{9}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2-1-4}روش اجرای برنامه}{10}{subsection.2.1.4}%
-\contentsline {subsection}{\numberline {2-1-5}مراجع فارسی}{10}{subsection.2.1.5}%
-\contentsline {section}{\numberline {2-2}راهنمای واژه‌نامه}{10}{section.2.2}%
-\contentsline {section}{\numberline {2-3}ساخت نمایه}{11}{section.2.3}%
-\contentsline {subsection}{\numberline {2-3-1}ساخت نمایه}{11}{subsection.2.3.1}%
-\contentsline {chapter}{\numberline {3}نگارش صحيح}{12}{chapter.3}%
-\contentsline {section}{\numberline {3-1}مقدمه}{13}{section.3.1}%
-\contentsline {section}{\numberline {3-2}فارسی نویسی}{13}{section.3.2}%
-\contentsline {section}{\numberline {3-3}رعایت املای صحيح }{14}{section.3.3}%
-\contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{14}{section.3.4}%
-\contentsline {subsection}{\numberline {3-4-1}ويرگول}{14}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3-4-2}نقطه}{15}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3-4-3}دونقطه}{15}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3-4-4}گیومه}{15}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{15}{subsection.3.4.5}%
-\contentsline {subsection}{\numberline {3-4-6}خط تیره}{16}{subsection.3.4.6}%
-\contentsline {subsection}{\numberline {3-4-7}پرانتز}{16}{subsection.3.4.7}%
-\contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{16}{section.3.5}%
-\contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{18}{chapter.4}%
-\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{19}{section.4.1}%
-\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{19}{section.4.2}%
-\contentsline {section}{\numberline {4-3}ساده‌نویسی }{19}{section.4.3}%
-\contentsline {section}{\numberline {4-4}وحدت موضوع}{20}{section.4.4}%
-\contentsline {section}{\numberline {4-5}اختصار}{20}{section.4.5}%
-\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{20}{section.4.6}%
-\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{20}{section.4.7}%
-\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{20}{section.4.8}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{22}{chapter.5}%
-\contentsline {section}{\numberline {5-1}پیشنهادات}{23}{section.5.1}%
-\contentsline {chapter}{منابع و مراجع}{24}{appendix*.6}%
-\contentsline {chapter}{پیوست}{25}{appendix*.7}%
+\contentsline {chapter}{\numberline {2}نحوه‌ی استقرار مدل و تکنولوژی‌های استفاده‌شده}{5}{chapter.2}%
+\contentsline {section}{\numberline {2-1}نحوه‌ی استقرار مدل یادگیری ماشین}{6}{section.2.1}%
+\contentsline {section}{\numberline {2-2}‌‌زبان برنامه‌نویسی}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}زبان برنامه‌نویسی پایتون}{8}{subsection.2.2.1}%
+\contentsline {chapter}{\numberline {3}نگارش صحيح}{9}{chapter.3}%
+\contentsline {section}{\numberline {3-1}مقدمه}{10}{section.3.1}%
+\contentsline {section}{\numberline {3-2}فارسی نویسی}{10}{section.3.2}%
+\contentsline {section}{\numberline {3-3}رعایت املای صحيح }{11}{section.3.3}%
+\contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{11}{section.3.4}%
+\contentsline {subsection}{\numberline {3-4-1}ويرگول}{11}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3-4-2}نقطه}{12}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3-4-3}دونقطه}{12}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3-4-4}گیومه}{12}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{12}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3-4-6}خط تیره}{13}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3-4-7}پرانتز}{13}{subsection.3.4.7}%
+\contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{13}{section.3.5}%
+\contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{15}{chapter.4}%
+\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{16}{section.4.1}%
+\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{16}{section.4.2}%
+\contentsline {section}{\numberline {4-3}ساده‌نویسی }{16}{section.4.3}%
+\contentsline {section}{\numberline {4-4}وحدت موضوع}{17}{section.4.4}%
+\contentsline {section}{\numberline {4-5}اختصار}{17}{section.4.5}%
+\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{17}{section.4.6}%
+\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{17}{section.4.7}%
+\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{17}{section.4.8}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{19}{chapter.5}%
+\contentsline {section}{\numberline {5-1}پیشنهادات}{20}{section.5.1}%
+\contentsline {chapter}{منابع و مراجع}{21}{appendix*.6}%
+\contentsline {chapter}{پیوست}{22}{appendix*.7}%
 \contentsfinish 
