@@ -15,6 +15,54 @@ Zhao, Jingyi, Gao, Chunhai, and Tang, Tao.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{van2007python}
+Van~Rossum, Guido et~al.
+\newblock Python programming language.
+\newblock  in {\em USENIX annual technical conference},  vol.~41,  pp. 1--36.
+  Santa Clara, CA, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{srinath2017python}
+Srinath, KR.
+\newblock Python--the fastest growing programming language.
+\newblock {\em International Research Journal of Engineering and Technology},
+  4(12):354--357, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{sharma2020python}
+Sharma, Akshansh, Khan, Firoj, Sharma, Deepak, Gupta, Sunil, and Student, FY.
+\newblock Python: the programming language of future.
+\newblock {\em Int. J. Innovative Res. Technol}, 6(2):115--118, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{youssef2012exploring}
+Youssef, Ahmed~E.
+\newblock Exploring cloud computing services and applications.
+\newblock {\em Journal of Emerging Trends in Computing and Information
+  Sciences}, 3(6):838--847, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{serrano2015infrastructure}
+Serrano, Nicolas, Gallardo, Gorka, and Hernantes, Josune.
+\newblock Infrastructure as a service and cloud technologies.
+\newblock {\em IEEE Software}, 32(2):30--36, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{kaggleMLdeployments}
 ✔️ {D}eploying your {M}achine {L}earning models 👀 | {K}aggle ---
   kaggle.com.
