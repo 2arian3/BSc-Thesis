@@ -15,45 +15,45 @@ Database file #1: references.bib
 Warning--can't use both volume and number fields in van2007python
 
 Done.
-You've used 13 entries,
+You've used 14 entries,
             2198 wiz_defined-function locations,
-            668 strings with 7201 characters,
-and the built_in function-call counts, 3403 in all, are:
-= -- 290
-> -- 139
+            673 strings with 7328 characters,
+and the built_in function-call counts, 3525 in all, are:
+= -- 300
+> -- 140
 < -- 3
-+ -- 52
++ -- 53
 - -- 39
 * -- 252
-:= -- 503
-add.period$ -- 40
-call.type$ -- 13
-change.case$ -- 13
+:= -- 514
+add.period$ -- 43
+call.type$ -- 14
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 127
-empty$ -- 303
+cite$ -- 15
+duplicate$ -- 132
+empty$ -- 321
 format.name$ -- 39
-if$ -- 772
+if$ -- 805
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 51
-newline$ -- 123
+int.to.str$ -- 14
+missing$ -- 53
+newline$ -- 132
 num.names$ -- 12
-pop$ -- 27
+pop$ -- 35
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 56
+skip$ -- 59
 stack$ -- 0
 substring$ -- 249
-swap$ -- 28
+swap$ -- 29
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
 while$ -- 35
-width$ -- 15
-write$ -- 186
+width$ -- 16
+write$ -- 198
 (There was 1 warning)
