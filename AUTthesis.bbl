@@ -15,6 +15,26 @@ Zhao, Jingyi, Gao, Chunhai, and Tang, Tao.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{ran2019survey}
+Ran, Yongyi, Zhou, Xin, Lin, Pengfeng, Wen, Yonggang, and Deng, Ruilong.
+\newblock A survey of predictive maintenance: Systems, purposes and approaches.
+\newblock {\em arXiv preprint arXiv:1912.07383}, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zonta2020predictive}
+Zonta, Tiago, Da~Costa, Cristiano~Andr{\'e}, da~Rosa~Righi, Rodrigo, de~Lima,
+  Miromar~Jose, da~Trindade, Eduardo~Silveira, and Li, Guann~Pyng.
+\newblock Predictive maintenance in the industry 4.0: A systematic literature
+  review.
+\newblock {\em Computers \& Industrial Engineering}, 150:106889, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{van2007python}
 Van~Rossum, Guido et~al.
 \newblock Python programming language.
