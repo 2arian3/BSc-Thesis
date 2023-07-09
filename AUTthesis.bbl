@@ -44,12 +44,10 @@ Sharma, Akshansh, Khan, Firoj, Sharma, Deepak, Gupta, Sunil, and Student, FY.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{harris2020array}
-Harris, Charles~R, Millman, K~Jarrod, Van Der~Walt, St{\'e}fan~J, Gommers,
-  Ralf, Virtanen, Pauli, Cournapeau, David, Wieser, Eric, Taylor, Julian, Berg,
-  Sebastian, Smith, Nathaniel~J, et~al.
-\newblock Array programming with numpy.
-\newblock {\em Nature}, 585(7825):357--362, 2020.
+\bibitem{tiangoloFastAPI}
+{F}ast{A}{P}{I} --- fastapi.tiangolo.com.
+\newblock \url{https://fastapi.tiangolo.com/}.
+\newblock [Accessed 07-Apr-2023].
 
 \end{LTRbibitems}
 
@@ -59,6 +57,17 @@ Harris, Charles~R, Millman, K~Jarrod, Van Der~Walt, St{\'e}fan~J, Gommers,
 Van Der~Walt, Stefan, Colbert, S~Chris, and Varoquaux, Gael.
 \newblock The numpy array: a structure for efficient numerical computation.
 \newblock {\em Computing in science \& engineering}, 13(2):22--30, 2011.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{harris2020array}
+Harris, Charles~R, Millman, K~Jarrod, Van Der~Walt, St{\'e}fan~J, Gommers,
+  Ralf, Virtanen, Pauli, Cournapeau, David, Wieser, Eric, Taylor, Julian, Berg,
+  Sebastian, Smith, Nathaniel~J, et~al.
+\newblock Array programming with numpy.
+\newblock {\em Nature}, 585(7825):357--362, 2020.
 
 \end{LTRbibitems}
 
