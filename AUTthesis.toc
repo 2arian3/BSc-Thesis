@@ -15,20 +15,20 @@
 \contentsline {subsection}{\numberline {2-2-1}چارچوب \lr {FastAPI}}{8}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2-2-2}کتاب‌خانه‌ی \lr {NumPy}}{8}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2-2-3}کتاب‌خانه‌ی \lr {Scikit-Learn}}{8}{subsection.2.2.3}%
-\contentsline {chapter}{\numberline {3}استقرار مدل یادگیری ماشین}{9}{chapter.3}%
-\contentsline {section}{\numberline {3-1}زیرساخت به عنوان خدمت}{10}{section.3.1}%
-\contentsline {section}{\numberline {3-2}انواع روش‌های استقرار}{10}{section.3.2}%
-\contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{13}{chapter.4}%
-\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{14}{section.4.1}%
-\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{14}{section.4.2}%
-\contentsline {section}{\numberline {4-3}ساده‌نویسی }{14}{section.4.3}%
-\contentsline {section}{\numberline {4-4}وحدت موضوع}{15}{section.4.4}%
-\contentsline {section}{\numberline {4-5}اختصار}{15}{section.4.5}%
-\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{15}{section.4.6}%
-\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{15}{section.4.7}%
-\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{15}{section.4.8}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{17}{chapter.5}%
-\contentsline {section}{\numberline {5-1}پیشنهادات}{18}{section.5.1}%
-\contentsline {chapter}{منابع و مراجع}{19}{appendix*.6}%
-\contentsline {chapter}{پیوست}{21}{appendix*.7}%
+\contentsline {chapter}{\numberline {3}استقرار مدل یادگیری ماشین}{11}{chapter.3}%
+\contentsline {section}{\numberline {3-1}زیرساخت به عنوان خدمت}{12}{section.3.1}%
+\contentsline {section}{\numberline {3-2}روش‌ استقرار مدل}{12}{section.3.2}%
+\contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{16}{chapter.4}%
+\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{17}{section.4.1}%
+\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{17}{section.4.2}%
+\contentsline {section}{\numberline {4-3}ساده‌نویسی }{17}{section.4.3}%
+\contentsline {section}{\numberline {4-4}وحدت موضوع}{18}{section.4.4}%
+\contentsline {section}{\numberline {4-5}اختصار}{18}{section.4.5}%
+\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{18}{section.4.6}%
+\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{18}{section.4.7}%
+\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{18}{section.4.8}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{20}{chapter.5}%
+\contentsline {section}{\numberline {5-1}پیشنهادات}{21}{section.5.1}%
+\contentsline {chapter}{منابع و مراجع}{22}{appendix*.6}%
+\contentsline {chapter}{پیوست}{24}{appendix*.7}%
 \contentsfinish 
