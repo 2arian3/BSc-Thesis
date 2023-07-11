@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست اشکال}{ج}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{د}{section*.5}%
+\contentsline {chapter}{فهرست اشکال}{د}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{ه}{section*.5}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
@@ -21,8 +21,14 @@
 \contentsline {section}{\numberline {3-2}روش‌ استقرار مدل}{13}{section.3.2}%
 \contentsline {section}{\numberline {3-3}جمع‌بندی و نتیجه‌گیری}{16}{section.3.3}%
 \contentsline {chapter}{\numberline {4}پیاده‌سازی و توسعه مدل یادگیری ماشین}{17}{chapter.4}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{19}{chapter.5}%
-\contentsline {section}{\numberline {5-1}پیشنهادات}{20}{section.5.1}%
-\contentsline {chapter}{منابع و مراجع}{21}{appendix*.6}%
-\contentsline {chapter}{پیوست}{24}{appendix*.7}%
+\contentsline {section}{\numberline {4-1}توضیح مسئله}{18}{section.4.1}%
+\contentsline {section}{\numberline {4-2}پیش‌پردازش}{19}{section.4.2}%
+\contentsline {subsection}{\numberline {4-2-1}از بین بردن انحرافات}{19}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4-2-2}از بین بردن داده‌های پرت}{19}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4-3}استخراج ویژگی‌ها}{19}{section.4.3}%
+\contentsline {section}{\numberline {4-4}نحوه‌ی یادگیری مدل}{19}{section.4.4}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{20}{chapter.5}%
+\contentsline {section}{\numberline {5-1}پیشنهادات}{21}{section.5.1}%
+\contentsline {chapter}{منابع و مراجع}{22}{appendix*.6}%
+\contentsline {chapter}{پیوست}{25}{appendix*.7}%
 \contentsfinish 
