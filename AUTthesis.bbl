@@ -35,6 +35,16 @@ Zonta, Tiago, Da~Costa, Cristiano~Andr{\'e}, da~Rosa~Righi, Rodrigo, de~Lima,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{jung2017vibration}
+Jung, Deokwoo, Zhang, Zhenjie, and Winslett, Marianne.
+\newblock Vibration analysis for iot enabled predictive maintenance.
+\newblock  in {\em 2017 ieee 33rd international conference on data engineering
+  (icde)},  pp. 1271--1282. IEEE, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{van2007python}
 Van~Rossum, Guido et~al.
 \newblock Python programming language.
