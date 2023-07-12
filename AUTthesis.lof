@@ -3,14 +3,14 @@
 \contentsline {figure}{\numberline {1-1}{\ignorespaces مقایسه‌ی هزینه‌های انواع نگهد‌اری‌ها}}{3}{figure.1.1}%
 \contentsline {figure}{\numberline {1-2}{\ignorespaces نمودار جریان کار}}{4}{figure.1.2}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces لوگوی \lr {FastAPI}\cite {tiangoloFastAPI}}}{8}{figure.2.1}%
-\contentsline {figure}{\numberline {2-2}{\ignorespaces گراف وابستگی کتاب‌خانه‌های پایتون به \lr {NumPy}\cite {van2011numpy}}}{10}{figure.2.2}%
-\contentsline {figure}{\numberline {2-3}{\ignorespaces لوگوی \lr {PostgreSQL}، یکی از معروف‌ترین پایگاه داده‌های رابطه‌ای\cite {postgresqlPostgreSQL}}}{12}{figure.2.3}%
-\contentsline {figure}{\numberline {2-4}{\ignorespaces معماری داکر\cite {dockerDockerOverview}}}{13}{figure.2.4}%
-\contentsline {figure}{\numberline {2-5}{\ignorespaces ماشین‌های مجازی در برابر کانتینرهای داکری\cite {yadav2019docker}}}{14}{figure.2.5}%
+\contentsline {figure}{\numberline {2-1}{\ignorespaces لوگوی \lr {FastAPI}\cite {tiangoloFastAPI}}}{9}{figure.2.1}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces گراف وابستگی کتاب‌خانه‌های پایتون به \lr {NumPy}\cite {van2011numpy}}}{11}{figure.2.2}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces لوگوی \lr {PostgreSQL}، یکی از معروف‌ترین پایگاه داده‌های رابطه‌ای\cite {postgresqlPostgreSQL}}}{13}{figure.2.3}%
+\contentsline {figure}{\numberline {2-4}{\ignorespaces معماری داکر\cite {dockerDockerOverview}}}{14}{figure.2.4}%
+\contentsline {figure}{\numberline {2-5}{\ignorespaces ماشین‌های مجازی در برابر کانتینرهای داکری\cite {yadav2019docker}}}{15}{figure.2.5}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces انواع سرویس‌های ارائه‌شده توسط شرکت‌های خدمات ابری\cite {serrano2015infrastructure}}}{17}{figure.3.1}%
-\contentsline {figure}{\numberline {3-2}{\ignorespaces انواع روش‌های استقرار مدل‌های یادگیری ماشین\cite {kaggleMLdeployments}}}{18}{figure.3.2}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces انواع سرویس‌های ارائه‌شده توسط شرکت‌های خدمات ابری\cite {serrano2015infrastructure}}}{18}{figure.3.1}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces انواع روش‌های استقرار مدل‌های یادگیری ماشین\cite {kaggleMLdeployments}}}{19}{figure.3.2}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsfinish 
