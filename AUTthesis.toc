@@ -15,20 +15,23 @@
 \contentsline {subsection}{\numberline {2-2-1}چارچوب \lr {FastAPI}}{8}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2-2-2}کتاب‌خانه‌ی \lr {NumPy}}{9}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2-2-3}کتاب‌خانه‌ی \lr {Scikit-Learn}}{9}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2-3}جمع‌بندی و نتیجه‌گیری}{11}{section.2.3}%
-\contentsline {chapter}{\numberline {3}استقرار مدل یادگیری ماشین}{12}{chapter.3}%
-\contentsline {section}{\numberline {3-1}زیرساخت به عنوان خدمت}{13}{section.3.1}%
-\contentsline {section}{\numberline {3-2}روش‌ استقرار مدل}{13}{section.3.2}%
-\contentsline {section}{\numberline {3-3}جمع‌بندی و نتیجه‌گیری}{16}{section.3.3}%
-\contentsline {chapter}{\numberline {4}پیاده‌سازی و توسعه مدل یادگیری ماشین}{17}{chapter.4}%
-\contentsline {section}{\numberline {4-1}توضیح مسئله}{18}{section.4.1}%
-\contentsline {section}{\numberline {4-2}پیش‌پردازش}{19}{section.4.2}%
-\contentsline {subsection}{\numberline {4-2-1}از بین بردن انحرافات}{19}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4-2-2}از بین بردن داده‌های پرت}{19}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4-3}استخراج ویژگی‌ها}{19}{section.4.3}%
-\contentsline {section}{\numberline {4-4}نحوه‌ی یادگیری مدل}{19}{section.4.4}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{20}{chapter.5}%
-\contentsline {section}{\numberline {5-1}پیشنهادات}{21}{section.5.1}%
-\contentsline {chapter}{منابع و مراجع}{22}{appendix*.6}%
-\contentsline {chapter}{پیوست}{25}{appendix*.7}%
+\contentsline {subsection}{\numberline {2-2-4}کتاب‌خانه‌‌های جانبی}{10}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2-3}پایگاه داده‌ی رابطه‌ای}{11}{section.2.3}%
+\contentsline {section}{\numberline {2-4}داکر}{11}{section.2.4}%
+\contentsline {section}{\numberline {2-5}جمع‌بندی و نتیجه‌گیری}{13}{section.2.5}%
+\contentsline {chapter}{\numberline {3}استقرار مدل یادگیری ماشین}{14}{chapter.3}%
+\contentsline {section}{\numberline {3-1}زیرساخت به عنوان خدمت}{15}{section.3.1}%
+\contentsline {section}{\numberline {3-2}روش‌ استقرار مدل}{15}{section.3.2}%
+\contentsline {section}{\numberline {3-3}جمع‌بندی و نتیجه‌گیری}{18}{section.3.3}%
+\contentsline {chapter}{\numberline {4}پیاده‌سازی کارگزار اصلی}{19}{chapter.4}%
+\contentsline {chapter}{\numberline {5}پیاده‌سازی و توسعه مدل یادگیری ماشین}{20}{chapter.5}%
+\contentsline {section}{\numberline {5-1}توضیح مسئله}{21}{section.5.1}%
+\contentsline {section}{\numberline {5-2}پیش‌پردازش}{22}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}از بین بردن انحرافات}{22}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}از بین بردن داده‌های پرت}{22}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}استخراج ویژگی‌ها}{22}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5-3}نحوه‌ی یادگیری مدل}{22}{section.5.3}%
+\contentsline {section}{\numberline {5-4}جمع‌بندی و نتیجه‌گیری}{22}{section.5.4}%
+\contentsline {chapter}{منابع و مراجع}{23}{appendix*.6}%
+\contentsline {chapter}{پیوست}{26}{appendix*.7}%
 \contentsfinish 
