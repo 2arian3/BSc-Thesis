@@ -123,6 +123,27 @@ Kramer, Oliver and Kramer, Oliver.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{jatana2012survey}
+Jatana, Nishtha, Puri, Sahil, Ahuja, Mehak, Kathuria, Ishita, and Gosain,
+  Dishant.
+\newblock A survey and comparison of relational and non-relational database.
+\newblock {\em International Journal of Engineering Research \& Technology},
+  1(6):1--5, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{postgresqlPostgreSQL}
+Group, PostgreSQL Global~Development.
+\newblock {P}ostgre{S}{Q}{L} --- postgresql.org.
+\newblock \url{https://www.postgresql.org/}.
+\newblock [Accessed 12-Apr-2023].
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{anderson2015docker}
 Anderson, Charles.
 \newblock Docker [software engineering].
