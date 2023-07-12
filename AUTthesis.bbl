@@ -123,6 +123,35 @@ Kramer, Oliver and Kramer, Oliver.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{anderson2015docker}
+Anderson, Charles.
+\newblock Docker [software engineering].
+\newblock {\em Ieee Software}, 32(3):102--c3, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{dockerDockerOverview}
+{D}ocker overview --- docs.docker.com.
+\newblock \url{https://docs.docker.com/get-started/overview/}.
+\newblock [Accessed 12-Apr-2023].
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{yadav2019docker}
+Yadav, Anuj~Kumar, Garg, ML, and Ritika.
+\newblock Docker containers versus virtual machine-based virtualization.
+\newblock  in {\em Emerging Technologies in Data Mining and Information
+  Security: Proceedings of IEMIS 2018, Volume 3},  pp. 141--150. Springer,
+  2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{youssef2012exploring}
 Youssef, Ahmed~E.
 \newblock Exploring cloud computing services and applications.
@@ -168,6 +197,15 @@ Pacheco, Fannia, Exposito, Ernesto, Gineste, Mathieu, Baudoin, Cedric, and
   traffic classification: A systematic survey.
 \newblock {\em IEEE Communications Surveys \& Tutorials}, 21(2):1988--2014,
   2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{garcia2015data}
+Garc{\'\i}a, Salvador, Luengo, Juli{\'a}n, and Herrera, Francisco.
+\newblock {\em Data preprocessing in data mining},  vol.~72.
+\newblock Springer, 2015.
 
 \end{LTRbibitems}
 
