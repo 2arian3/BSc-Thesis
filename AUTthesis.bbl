@@ -45,6 +45,39 @@ Jung, Deokwoo, Zhang, Zhenjie, and Winslett, Marianne.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{tinga2010application}
+Tinga, Tiedo.
+\newblock Application of physical failure models to enable usage and load based
+  maintenance.
+\newblock {\em Reliability engineering \& system safety}, 95(10):1061--1075,
+  2010.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wu2007neural}
+Wu, Sze-jung, Gebraeel, Nagi, Lawley, Mark~A, and Yih, Yuehwern.
+\newblock A neural network integrated decision support system for
+  condition-based optimal predictive maintenance policy.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics-Part A:
+  Systems and Humans}, 37(2):226--236, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kaiser2009predictive}
+Kaiser, Kevin~A and Gebraeel, Nagi~Z.
+\newblock Predictive maintenance management using sensor-based degradation
+  models.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics-Part A:
+  Systems and Humans}, 39(4):840--849, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{van2007python}
 Van~Rossum, Guido et~al.
 \newblock Python programming language.
