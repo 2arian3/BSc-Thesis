@@ -29,9 +29,9 @@
 \contentsline {section}{\numberline {5-2}پیش‌پردازش}{24}{section.5.2}%
 \contentsline {subsection}{\numberline {5-2-1}از بین بردن انحرافات}{24}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5-2-2}از بین بردن داده‌های پرت}{24}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5-2-3}استخراج ویژگی‌ها}{24}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5-3}نحوه‌ی یادگیری مدل}{24}{section.5.3}%
-\contentsline {section}{\numberline {5-4}جمع‌بندی و نتیجه‌گیری}{24}{section.5.4}%
-\contentsline {chapter}{منابع و مراجع}{25}{appendix*.6}%
-\contentsline {chapter}{پیوست}{29}{appendix*.7}%
+\contentsline {subsection}{\numberline {5-2-3}استخراج ویژگی‌ها}{25}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5-3}نحوه‌ی یادگیری مدل}{25}{section.5.3}%
+\contentsline {section}{\numberline {5-4}جمع‌بندی و نتیجه‌گیری}{25}{section.5.4}%
+\contentsline {chapter}{منابع و مراجع}{26}{appendix*.6}%
+\contentsline {chapter}{پیوست}{30}{appendix*.7}%
 \contentsfinish 
