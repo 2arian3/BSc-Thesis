@@ -10,50 +10,54 @@ The style file: unsrt-fa.bst
 A level-1 auxiliary file: appendix1.aux
 A level-1 auxiliary file: en-abstract.aux
 Database file #1: references.bib
+Repeated entry---line 271 of file references.bib
+ : @article{carreira2015review
+ :                            ,
+I'm skipping whatever remains of this entry
 -- unsrt-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Warning--can't use both volume and number fields in van2007python
 
 Done.
-You've used 26 entries,
+You've used 27 entries,
             2198 wiz_defined-function locations,
-            738 strings with 9560 characters,
-and the built_in function-call counts, 6615 in all, are:
-= -- 569
-> -- 262
+            742 strings with 9688 characters,
+and the built_in function-call counts, 6757 in all, are:
+= -- 580
+> -- 266
 < -- 6
-+ -- 99
-- -- 73
-* -- 442
-:= -- 951
-add.period$ -- 82
-call.type$ -- 26
-change.case$ -- 25
++ -- 101
+- -- 74
+* -- 445
+:= -- 975
+add.period$ -- 85
+call.type$ -- 27
+change.case$ -- 26
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 258
-empty$ -- 608
-format.name$ -- 73
-if$ -- 1538
+cite$ -- 28
+duplicate$ -- 266
+empty$ -- 622
+format.name$ -- 74
+if$ -- 1570
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 102
-newline$ -- 241
-num.names$ -- 23
-pop$ -- 77
+int.to.str$ -- 27
+missing$ -- 105
+newline$ -- 250
+num.names$ -- 24
+pop$ -- 80
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 120
+skip$ -- 123
 stack$ -- 0
 substring$ -- 455
-swap$ -- 64
+swap$ -- 65
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 1
-while$ -- 63
-width$ -- 28
-write$ -- 365
-(There was 1 warning)
+while$ -- 64
+width$ -- 29
+write$ -- 378
+(There was 1 error message)
