@@ -263,4 +263,13 @@ Garc{\'\i}a, Salvador, Luengo, Juli{\'a}n, and Herrera, Francisco.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{carreira2015review}
+Carreira-Perpin{\'a}n, Miguel~A.
+\newblock A review of mean-shift algorithms for clustering.
+\newblock {\em arXiv preprint arXiv:1503.00687}, 2015.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
