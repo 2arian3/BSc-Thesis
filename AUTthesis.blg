@@ -6,6 +6,8 @@ A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
 A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: chapter6.aux
+A level-1 auxiliary file: chapter7.aux
 The style file: unsrt-fa.bst
 A level-1 auxiliary file: appendix1.aux
 A level-1 auxiliary file: en-abstract.aux
@@ -21,7 +23,7 @@ Warning--can't use both volume and number fields in van2007python
 Done.
 You've used 27 entries,
             2198 wiz_defined-function locations,
-            742 strings with 9688 characters,
+            744 strings with 9712 characters,
 and the built_in function-call counts, 6757 in all, are:
 = -- 580
 > -- 266
