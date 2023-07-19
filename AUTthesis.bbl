@@ -272,4 +272,13 @@ Carreira-Perpin{\'a}n, Miguel~A.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{derpanis2010overview}
+Derpanis, Konstantinos~G.
+\newblock Overview of the ransac algorithm.
+\newblock {\em Image Rochester NY}, 4(1):2--3, 2010.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
