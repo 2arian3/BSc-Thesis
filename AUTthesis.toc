@@ -41,7 +41,9 @@
 \contentsline {chapter}{\numberline {6}چالش‌ها و محدودیت‌ها}{34}{chapter.6}%
 \contentsline {section}{\numberline {6-1}چالش‌ها}{35}{section.6.1}%
 \contentsline {section}{\numberline {6-2}محدودیت‌ها}{35}{section.6.2}%
-\contentsline {chapter}{\numberline {7}جمع‌بندی، نتیجه‌گیری و پیشنهادات}{36}{chapter.7}%
-\contentsline {chapter}{منابع و مراجع}{37}{appendix*.10}%
-\contentsline {chapter}{پیوست}{41}{appendix*.11}%
+\contentsline {chapter}{\numberline {7}جمع‌بندی، نتیجه‌گیری و پیشنهادات}{37}{chapter.7}%
+\contentsline {section}{\numberline {7-1}جمع‌بندی و نتیجه‌گیری}{38}{section.7.1}%
+\contentsline {section}{\numberline {7-2}پیشنهادات}{38}{section.7.2}%
+\contentsline {chapter}{منابع و مراجع}{39}{appendix*.10}%
+\contentsline {chapter}{پیوست}{43}{appendix*.11}%
 \contentsfinish 
