@@ -281,4 +281,15 @@ Derpanis, Konstantinos~G.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{patel2020doctor}
+Patel, Dhaval, Zhou, Nianjun, Shrivastava, Shrey, and Kalagnanam, Jayant.
+\newblock Doctor for machines: a failure pattern analysis solution for industry
+  4.0.
+\newblock  in {\em 2020 IEEE International Conference on Big Data (Big Data)},
+  pp. 1614--1623. IEEE, 2020.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
