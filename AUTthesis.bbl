@@ -256,6 +256,34 @@ Pacheco, Fannia, Exposito, Ernesto, Gineste, Mathieu, Baudoin, Cedric, and
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{thones2015microservices}
+Th{\"o}nes, Johannes.
+\newblock Microservices.
+\newblock {\em IEEE software}, 32(1):116--116, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{deacon2009model}
+Deacon, John.
+\newblock Model-view-controller (mvc) architecture.
+\newblock {\em Online][Citado em: 10 de mar{\c{c}}o de 2006.] http://www. jdl.
+  co. uk/briefings/MVC. pdf}, 28, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{jones2015json}
+Jones, Michael, Bradley, John, and Sakimura, Nat.
+\newblock Json web token (jwt).
+\newblock  tech. rep., 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{garcia2015data}
 Garc{\'\i}a, Salvador, Luengo, Juli{\'a}n, and Herrera, Francisco.
 \newblock {\em Data preprocessing in data mining},  vol.~72.
