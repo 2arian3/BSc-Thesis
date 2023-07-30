@@ -7,7 +7,6 @@ A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
 A level-1 auxiliary file: chapter5.aux
 A level-1 auxiliary file: chapter6.aux
-A level-1 auxiliary file: chapter7.aux
 The style file: unsrt-fa.bst
 A level-1 auxiliary file: appendix1.aux
 A level-1 auxiliary file: en-abstract.aux
@@ -24,7 +23,7 @@ Warning--empty institution in jones2015json
 Done.
 You've used 32 entries,
             2198 wiz_defined-function locations,
-            767 strings with 10360 characters,
+            766 strings with 10348 characters,
 and the built_in function-call counts, 7967 in all, are:
 = -- 692
 > -- 303
