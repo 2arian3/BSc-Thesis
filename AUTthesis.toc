@@ -59,12 +59,10 @@
 \contentsline {section}{\numberline {5-4}جمع‌بندی و نتیجه‌گیری}{43}{section.5.4}%
 \contentsline {chapter}{\numberline {6}جمع‌بندی، نتیجه‌گیری و پیشنهادات}{44}{chapter.6}%
 \contentsline {section}{\numberline {6-1}جمع‌بندی و نتیجه‌گیری}{45}{section.6.1}%
-\contentsline {section}{\numberline {6-2}چالش‌ها}{45}{section.6.2}%
-\contentsline {section}{\numberline {6-3}محدودیت‌ها}{46}{section.6.3}%
-\contentsline {section}{\numberline {6-4}پیشنهادات}{46}{section.6.4}%
-\contentsline {subsubsection}{پیاده‌کردن سیستم ارسال گزارش و هشدار به مدیران}{47}{section*.23}%
-\contentsline {subsubsection}{تشخیص نوع خرابی}{47}{section*.24}%
+\contentsline {section}{\numberline {6-2}پیشنهادات}{46}{section.6.2}%
+\contentsline {subsubsection}{پیاده‌کردن سیستم ارسال گزارش و هشدار به مدیران}{46}{section*.23}%
+\contentsline {subsubsection}{تشخیص نوع خرابی}{46}{section*.24}%
 \contentsline {subsubsection}{افزایش دقت پیش‌بینی}{47}{section*.25}%
-\contentsline {chapter}{منابع و مراجع}{49}{appendix*.26}%
-\contentsline {chapter}{پیوست}{53}{appendix*.27}%
+\contentsline {chapter}{منابع و مراجع}{48}{appendix*.26}%
+\contentsline {chapter}{پیوست}{52}{appendix*.27}%
 \contentsfinish 
