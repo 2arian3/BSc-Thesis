@@ -1,4 +1,4 @@
-# B.Sc. Thesis
+# Predictive Maintenance Using Vibration Analysis for IIoT
 This repository contains all of my bachelor's thesis documents titled ```Predictive Maintenance Using Vibration Analysis for Industrial IoT Enabled Equipment``` in computer engineering at Amirkabir University of Technology under the supervision of Professor [Hamid R. Zarandi](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en).
 
 ## System's Components
